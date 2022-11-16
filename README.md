@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @frormoser
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning React.js, Node.js, NoSQL and SQL.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me joelrormoser@gmail.com
 
