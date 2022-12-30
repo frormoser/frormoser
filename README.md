@@ -1,8 +1,8 @@
-<h2> 👋 Hi, I’m </h2> <h1> Federico Rormoser </h1> <h2> a Fullstack Developer from Argentina. </h2>
+<h4> 👋 Hi, I’m </h4> <h3> Federico Rormoser </h3> <h4> a Fullstack Developer from Argentina. </h4>
 
 👀 I’m interested in Software Development & SRE.
 
-<h4> Tecnologies: </h4>
+<h3> Tecnologies: </h3>
 
 ✔ React.Js
 ✔ Golang
