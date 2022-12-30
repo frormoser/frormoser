@@ -1,4 +1,4 @@
-<h4> 👋 Hi, I’m </h4> <h3> Federico Rormoser </h3> <h4> a Fullstack Developer from Argentina. </h4>
+👋 Hi, I’m <strong> Federico Rormoser </strong> a Fullstack Developer from Argentina.
 
 👀 I’m interested in Software Development & SRE.
 
@@ -13,10 +13,10 @@
 ✔ Agile Methodologies
 ✔ Git/ Github
 
-<h4> 📫 How to reach me:</h4>
+<h3> 📫 How to reach me:</h3>
 
-Email: joelrormoser@gmail.com
-Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/  
+📧 Email: joelrormoser@gmail.com
+💼 Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/  
 
 <!---
 frormoser/frormoser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
