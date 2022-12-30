@@ -2,7 +2,7 @@
 
 
 💻 I’m interested in Software Development & SRE.
-<div>
+
 <h4> Tecnologies: </h4>
 
 ✔ React.js 
@@ -13,10 +13,10 @@
 ✔ Docker 
 ✔ Agile Methodologies 
 ✔ Git / Github 
-</div>
+
 <h4> 📫 How to reach me:</h4>
 
-📧 Email: joelrormoser@gmail.com <br> 💼 Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/  <br>
+📧 Email: joelrormoser@gmail.com <br> 💼 Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/
 
 <!---
 frormoser/frormoser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
