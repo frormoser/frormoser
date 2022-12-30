@@ -1,21 +1,22 @@
-👋 Hi, I’m <strong> Federico Rormoser </strong> a <strong/> Fullstack Developer </strong> from Argentina.
+<h4> 👋 Hi, I’m <strong> Federico Rormoser </strong> a <strong/> Fullstack Developer </strong> from Argentina. </h4>
+
 
 💻 I’m interested in Software Development & SRE.
 
 <h4> Tecnologies: </h4>
 
-✔ React.js
-✔ Golang
-✔ Node.js
-✔ SQL & NOSQL
-✔ GNU/Linux
-✔ Docker
-✔ Agile Methodologies
-✔ Git / Github
+✔ React.js <br>
+✔ Golang <br> 
+✔ Node.js <br>
+✔ SQL & NOSQL <br>
+✔ GNU/Linux <br>
+✔ Docker <br>
+✔ Agile Methodologies <br>
+✔ Git / Github <br>
 
 <h4> 📫 How to reach me:</h4>
 
-📧 Email: joelrormoser@gmail.com                 💼 Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/  
+📧 Email: joelrormoser@gmail.com <br> 💼 Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/  <br>
 
 <!---
 frormoser/frormoser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
