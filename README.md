@@ -1,8 +1,8 @@
-👋 Hi, I’m <h4> Federico Rormoser </h4> a <h4/> Fullstack Developer </h4> from Argentina.
+👋 Hi, I’m <strong> Federico Rormoser </strong> a <strong/> Fullstack Developer </strong> from Argentina.
 
 💻 I’m interested in Software Development & SRE.
 
-<h3> Tecnologies: </h3>
+<h4> Tecnologies: </h4>
 
 ✔ React.Js
 ✔ Golang
@@ -13,7 +13,7 @@
 ✔ Agile Methodologies
 ✔ Git/ Github
 
-<h3> 📫 How to reach me:</h3>
+<h4> 📫 How to reach me:</h4>
 
 📧 Email: joelrormoser@gmail.com
 💼 Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/  
