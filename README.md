@@ -4,19 +4,18 @@
 
 <h4> Tecnologies: </h4>
 
-✔ React.Js
+✔ React.js
 ✔ Golang
-✔ JavaScript
+✔ Node.js
 ✔ SQL & NOSQL
-✔ Typescript
-✔ Node.Js
+✔ GNU/Linux
+✔ Docker
 ✔ Agile Methodologies
-✔ Git/ Github
+✔ Git / Github
 
 <h4> 📫 How to reach me:</h4>
 
-📧 Email: joelrormoser@gmail.com
-💼 Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/  
+📧 Email: joelrormoser@gmail.com                 💼 Linkedin Profile: https://www.linkedin.com/in/federico-rormoser/  
 
 <!---
 frormoser/frormoser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
