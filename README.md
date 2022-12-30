@@ -1,6 +1,6 @@
-👋 Hi, I’m <strong> Federico Rormoser </strong> a Fullstack Developer from Argentina.
+👋 Hi, I’m <h4> Federico Rormoser </h4> a <h4/> Fullstack Developer </h4> from Argentina.
 
-👀 I’m interested in Software Development & SRE.
+💻 I’m interested in Software Development & SRE.
 
 <h3> Tecnologies: </h3>
 
