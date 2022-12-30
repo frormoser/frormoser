@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m <h1> Federico Rormoser </h1> a Fullstack Developer from Argentina. </h2>
+<h2> 👋 Hi, I’m </h2> <h1> Federico Rormoser </h1> <h2> a Fullstack Developer from Argentina. </h2>
 
 👀 I’m interested in Software Development & SRE.
 
