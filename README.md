@@ -4,14 +4,14 @@
 
 <h4> Tecnologies: </h4>
 
-✔ React.js 
-✔ Golang  
-✔ Node.js 
-✔ SQL & NOSQL 
-✔ GNU/Linux 
-✔ Docker 
-✔ Agile Methodologies 
-✔ Git / Github 
+✔ React.js
+✔ Golang
+✔ Node.js
+✔ SQL & NOSQL
+✔ GNU/Linux
+✔ Docker
+✔ Agile Methodologies
+✔ Git / Github
 
 <h4> 📫 How to reach me:</h4>
 
