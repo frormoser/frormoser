@@ -1,16 +1,17 @@
-👋 Hi, I’m <strong> Federico Rormoser </strong> a <strong/> Fullstack Developer </strong> from Argentina.
+👋 Hi, I’m <strong> Federico Rormoser </strong> a <strong/> DevOps Engineer </strong> from Argentina.
 
-💻 I’m interested in Software Development & SRE.
+💻 I’m interested in Infrastructure & DevOps.
 
 <h4> Tecnologies: </h4>
 
-✔React.js
-✔Golang
-✔Node.js
+✔Bash/Python
+✔AWS
 ✔SQL & NOSQL
-✔GNU/Linux
+✔UNIX/Linux
 ✔Docker
-✔Agile Methodologies
+✔Kubernetes
+✔Terraform
+✔CI/CD
 ✔Git / Github
 
 <h4> 📫 How to reach me:</h4>
