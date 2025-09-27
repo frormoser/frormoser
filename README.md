@@ -22,16 +22,6 @@ I design and deliver **production-ready environments** using Infrastructure as C
 
 ---
 
-## 📂 Featured Project  
-
-### [🚀 AWS Infrastructure with Terraform & Ansible](https://github.com/frormoser/aws-infra-terraform-ansible)  
-- Provision AWS resources with **Terraform**  
-- Configure & deploy Nginx with **Ansible**  
-- Serve a **custom branded site**  
-🔗 [Live Demo](https://aws-infra-terraform-ansible.netlify.app/)  
-
----
-
 ## 📫 Contact  
 
 <p align="center">
