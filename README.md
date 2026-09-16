@@ -1,6 +1,6 @@
 # 👨‍💻 Federico Rormoser  
 
-**DevOps Engineer | Cloud Infrastructure | Automation**  
+**DevOps Engineer | AWS Certified Solutions Architect – Associate | Terraform · IaC · CI/CD**  
 _From Argentina to the world 🌍_  
 
 ---
